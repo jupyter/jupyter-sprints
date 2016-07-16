@@ -1,2 +1,5 @@
 [project]
 name = jupyter-sprints
+
+[servers.ghpages]
+target = ghpages+https://jupyter/jupyter-sprints
