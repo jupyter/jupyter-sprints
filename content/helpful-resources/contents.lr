@@ -1,0 +1,22 @@
+_model: page
+---
+title: Helpful resources
+---
+body:
+
+### conda
+
+- [conda cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
+
+### Git and GitHub
+
+- [Yes, you can git! An introduction to git and GitHub](https://speakerdeck.com/willingc/yes-you-can-git)
+- [Git cheatsheet by GitHub](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+
+### Markdown
+
+- [Markdown cheatsheet by GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+### Software Carpentry and Data Carpentry
+
+- [Software Carpentry Lessons](http://software-carpentry.org/lessons/)

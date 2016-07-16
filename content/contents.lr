@@ -1,0 +1,41 @@
+title: Welcome to SciPy 2016 Jupyter and IPython Sprints
+---
+body:
+
+We're happy that you are joining us.
+
+### Who?
+
+Project Jupyter welcomes all attendees. All experience levels, including complete beginners, are welcome and encouraged to participate.
+
+### Sprint leads and mentors
+
+* New contributors: Carol
+* JupyterLab: Brian, Cal Poly Interns (Charnpreet, Elliot, Farica, Katie, Matt, Reese, Roshan, Spoorthy) Jason, Sylvain
+* IPython and Jupyter Notebook: Mathias
+* ipywidgets: Sylvain
+* JupyterHub, nbdime: Min
+* JupyterCon: Ana
+
+### Where?
+
+Conference room: 
+
+### When?
+
+[SciPy sprint schedule July 17-18](http://scipy2016.scipy.org/ehome/146062/332962/)
+
+### Communication and collaboration
+
+Gitter: https://gitter.im/jupyter/jupyterlab
+
+### Tips for mentors and participants
+
+Questions are encouraged. If something isn't clear to you, it is highly likely that it is not clear to others as well.
+
+[Recurse Center Social Rules](https://www.recurse.com/manual#sec-environment)
+- No feigning surprise
+- No "well actually"s
+- No back-seat driving (i.e. ask before touching someone else's keyboard)
+- No subtle "ism"s
+
