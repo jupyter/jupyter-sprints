@@ -1,0 +1,26 @@
+title: Projects
+---
+body:
+
+Here's a list of projects:
+
+* JupyterLab [Repo](https://github.com/jupyter/jupyterlab)
+* Jupyter Notebook [Repo](https://github.com/jupyter/notebook)
+* IPython [Repo](https://github.com/ipython/ipython)
+* ipywidgets [Repo](https://github.com/ipython/ipywidgets)
+* JupyterHub [Repo](https://github.com/jupyterhub/jupyterhub)
+
+## What to work on
+
+Issues tagged as 'sprint-friendly', 'help wanted', and 'bitesize' are good starting places.
+
+
+## Good Tasks For Newcomers
+There are certain tasks that are ideal for newcomers, where a lack of knowledge about how the project works is a help instead of a hindrance. These include:
+
+**User testing**: Newcomers make excellent test users for new or confusing elements of a project. There are a number of simple ways to conduct user tests, but one of my favorites is the think aloud. To prepare for a think aloud, create a list of tasks that you'd like to see tested, and make sure to assign a community member to take notes on the problems your test users run into. Bonus: once they're done with user testing, newcomers will have a much better sense of what your project does.
+
+**Development environment setup & documentation**: Setting up a development environment for a project can be quite time consuming, especially if the documentation is incomplete. If you gather your new contributors together and assign them a mentor who's quite familiar with the setup process, you can tackle problems as they arise. Newcomers can file those problems as bugs on your issue tracker and/or submit the documentation fixes themselves as patches/pull requests. Bonus: once you're done, newcomers will have the project set up and be familiar with your contribution process!
+
+**Reproducing bugs**: If you've got an unwieldy issue tracker with lots of open bug reports, new users can help by attempting to reproduce those bugs. Make sure to assign a mentor who is familiar with your bug triaging process and can help newcomers with this task. Often bug reports are missing key information and a mentor can help newcomers identify that information. In these cases, they can encourage newcomers to leave a comment asking for more detail. Bonus: by doing some basic bug triage, newcomers will learn about common problems with your project, as well as some basic open source knowledge about what makes a good bug report.
+
